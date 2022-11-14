@@ -2,7 +2,9 @@
 A pytorch implementation of this paper (<a href="https://aclanthology.org/2022.coling-1.154/">COLING 2022</a>). 
 
 # Requirements
+```bash
 pip install -r requirements.txt
+```
 
 # Download Data  
 Download data from <a href="https://hotpotqa.github.io/">HotpotQA</a>.
