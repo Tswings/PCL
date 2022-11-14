@@ -11,6 +11,7 @@ pip install -r requirements.txt
 1. Download raw data from <a href="https://hotpotqa.github.io/">HotpotQA</a>.
 
 2. Download our pretrianed <a href="https://uoa-my.sharepoint.com/:f:/g/personal/zden658_uoa_auckland_ac_nz/EiifJtZRolxMl67cRCUJF4QBmcTOLL59zIuB7sYy8WYEAQ?e=haYzuT">models</a> for reproduction.
+
 Extract ps1_model, ps2_model, qa_model files into PS1/ps1_model, PS2/ps2_model, QA/qa_model
 
 3. Inference
